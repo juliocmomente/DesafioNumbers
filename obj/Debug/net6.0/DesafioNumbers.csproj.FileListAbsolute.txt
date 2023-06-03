@@ -1,0 +1,15 @@
+/home/julio/Coding/C#/DesafioNumbers/bin/Debug/net6.0/DesafioNumbers
+/home/julio/Coding/C#/DesafioNumbers/bin/Debug/net6.0/DesafioNumbers.deps.json
+/home/julio/Coding/C#/DesafioNumbers/bin/Debug/net6.0/DesafioNumbers.runtimeconfig.json
+/home/julio/Coding/C#/DesafioNumbers/bin/Debug/net6.0/DesafioNumbers.dll
+/home/julio/Coding/C#/DesafioNumbers/bin/Debug/net6.0/ref/DesafioNumbers.dll
+/home/julio/Coding/C#/DesafioNumbers/bin/Debug/net6.0/DesafioNumbers.pdb
+/home/julio/Coding/C#/DesafioNumbers/obj/Debug/net6.0/DesafioNumbers.csproj.AssemblyReference.cache
+/home/julio/Coding/C#/DesafioNumbers/obj/Debug/net6.0/DesafioNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/julio/Coding/C#/DesafioNumbers/obj/Debug/net6.0/DesafioNumbers.AssemblyInfoInputs.cache
+/home/julio/Coding/C#/DesafioNumbers/obj/Debug/net6.0/DesafioNumbers.AssemblyInfo.cs
+/home/julio/Coding/C#/DesafioNumbers/obj/Debug/net6.0/DesafioNumbers.csproj.CoreCompileInputs.cache
+/home/julio/Coding/C#/DesafioNumbers/obj/Debug/net6.0/DesafioNumbers.dll
+/home/julio/Coding/C#/DesafioNumbers/obj/Debug/net6.0/ref/DesafioNumbers.dll
+/home/julio/Coding/C#/DesafioNumbers/obj/Debug/net6.0/DesafioNumbers.pdb
+/home/julio/Coding/C#/DesafioNumbers/obj/Debug/net6.0/DesafioNumbers.genruntimeconfig.cache
